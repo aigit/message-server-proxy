@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: message-proxy
+  profiles:
+    active: dev
+logging:
+  pattern:
+    dateformat: HH:mm:ss.SSS
